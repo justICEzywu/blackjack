@@ -1,5 +1,5 @@
 步驟:
-git clone https://github.com/MrBraveO	clone資料夾下來
+git clone https://github.com/MrBraveOuO/blackjack	clone資料夾下來
 git checkout -b X					創建新分支X
 git checkout X						切換到分支X
 							寫完功能
